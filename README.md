@@ -23,8 +23,3 @@ The goal of this project is to design and implement a data processing pipeline f
 - Databricks/Azure cloud environment
 - Python 3.x
 - Jupyter Notebook
-
-## 👥 Authors
-
-- Ariela Moldavskaya  
-- Gil Caplan
