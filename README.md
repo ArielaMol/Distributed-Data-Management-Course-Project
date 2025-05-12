@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MapReduce_Architecture.svg/800px-MapReduce_Architecture.svg.png" alt="Distributed Architecture" width="600"/>
+</p>
+
 # Distributed Data Management Course Project
 
 This repository contains the implementation of Project 1 for the course **Distributed Database Management (096224)** at Technion – Israel Institute of Technology, Spring 2024.
